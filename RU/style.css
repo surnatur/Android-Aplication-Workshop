@@ -1,0 +1,69 @@
+*{
+	font-family: 'Karla'!important;
+	text-shadow: none;
+}
+
+body {
+    background: url(background.jpg) !important;
+
+    background-repeat:repeat-y !important;
+    background-position:center center !important;
+    background-attachment:fixed !important;
+    background-size:100% 100% !important;
+
+}
+
+.ui-page {
+    background: transparent !important;
+}
+
+.ui-content{
+    background: transparent !important;
+}
+
+.back{
+	margin-bottom: 50px;
+}
+
+.textIndent {
+	text-indent: 5px !important;
+}
+
+.menuButtons span {
+	background-color: transparent !important ;
+}
+
+#descripionDiv {
+	margin-top: 10%;
+} 
+
+#menuButtonsDiv {
+	margin-left: 10%;
+	position: absolute;
+	bottom: 20px;
+
+}
+
+#preferenceH2 {
+	margin-bottom: 50px;
+}
+
+#registerBack {
+	margin-bottom: 10px;
+}
+
+#goToMenu {
+	position: absolute;
+	right: 0;
+	width: 140px;
+}
+
+#descripionDiv p {
+	text-align: center;
+	width: 80%;
+	margin:auto;
+	margin-bottom: 10px;
+	color: white;
+	text-shadow: none;
+}
+
